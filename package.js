@@ -11,7 +11,7 @@ Package.describe({
 });
 
 Package.onUse(function(api) {
-  api.versionsFrom('METEOR@1.0.3.1');
+  api.versionsFrom('METEOR@1.2');
   api.use(['stylus'], 'client');
   api.addFiles(['lolliclock.js','lolliclock.styl'],'client');
 });
