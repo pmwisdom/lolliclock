@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'mattkrick:lolliclock',
+  name: 'mirrorcell:lolliclock',
   version: '0.2.0',
   // Brief, one-line summary of the package.
   summary: 'A material design timepicker based on clockpicker',
